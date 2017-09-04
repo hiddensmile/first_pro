@@ -1,0 +1,14 @@
+{
+	"errno": 0,
+	"data": {
+		"title": "德克士(昌平店)",
+		"info": "起送￥20| 配送￥5| 送达30分钟",
+		"logo": "logo.jpg",
+		"store": "kdj",
+		"menu": [
+			{"id": "product", "text": "商品", "url": "product/food/01"},
+			{"id": "evaluate", "text": "评价", "url": "evaluate"},
+			{"id": "seller", "text": "商家", "url": "seller"}
+		]
+	}
+}
